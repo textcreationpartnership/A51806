@@ -1,0 +1,703 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Greenwich-Hill a poem / by Mr. Manning.</title>
+            <author>Manning, Mr. (Francis), fl. 1688-1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51806</idno>
+            <idno type="STC">Wing M487</idno>
+            <idno type="STC">ESTC R31167</idno>
+            <idno type="EEBO-CITATION">11781431</idno>
+            <idno type="OCLC">ocm 11781431</idno>
+            <idno type="VID">49077</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49077)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1487:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Greenwich-Hill a poem / by Mr. Manning.</title>
+                  <author>Manning, Mr. (Francis), fl. 1688-1716.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warren for Francis Saunders ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49077:1"/>
+            <pb facs="tcp:49077:1"/>
+            <p>Greenwich-Hill. A POEM.</p>
+            <p>By M<hi rend="sup">r</hi> 
+               <hi>Manning.</hi>
+            </p>
+            <q>
+               <p>Quod ſupereſt, ultrò ſacris largire Camaenis.</p>
+               <bibl>
+                  <hi>Lord</hi> Coke.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Warren,</hi> for <hi>Francis Saunders</hi> at the <hi>Blue Anchor,</hi> in the lower Walk of the <hi>New Exchange</hi> in the <hi>Strand,</hi> 1697.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49077:2" rendition="simple:additions"/>
+            <pb facs="tcp:49077:2"/>
+            <head>TO D<hi rend="sup">r</hi> 
+               <hi>HENRY NEWTON.</hi>
+            </head>
+            <opener>
+               <salute>DEAR SIR,</salute>
+            </opener>
+            <p>THE following piece has a natural recourſe to you, for 'twas your character of the diſtinguiſh'd Proſpects which <hi>Greenwich</hi> afforded, (before I had ta<g ref="char:EOLhyphen"/>ken a very ſtrict view of them My ſelf) that firſt inclin'd me to attempt the draught: and tho' <hi>Cooper</hi>'s Hill has not ſuffer'd me to pretend to an Ori<g ref="char:EOLhyphen"/>ginal, yet is it Honour enough for me to Copy after That, eſpecially ſince it gives me an occaſion to publiſh the juſt regard I have for any thing that You commend.</p>
+            <p>Sir <hi>John Denham,</hi> you know, was a great Wit, and the Poem I mention'd is juſt<g ref="char:EOLhyphen"/>ly celebrated for a Maſter-piece in the kind. But then as the Hill He choſe admits not ſuch variety of Proſpect as <hi>Greenwich,</hi> (which <hi>Barclay</hi> who had been a great Tra<g ref="char:EOLhyphen"/>veller, preferrs to any He had ſeen) one may eaſily conceive, that had That famous Poet taken <hi>Greenwich</hi> for his Theme, it muſt in his hands have rais'd it ſelf even above <hi>Cooper</hi>'s Hill.</p>
+            <p>But here, Sir, in ſuch an artleſs performance as Mine, you muſt not think of the leaſt Compariſon. I have only attempted what He could have made compleat. To have proportion, good ſenſe, beauty, and harmony in a Poem, belongs to very few Writers in theſe days.</p>
+            <p>Not but that we have ſeveral living Examples of true <hi>Genius,</hi> and refin'd <hi>Art</hi> amongſt us. Some, who tho' they ne'er attempted to write <hi>Epick Poems,</hi> yet in the Judgment of Skillful Men could have exceeded any Modern <g ref="char:V">Ʋ</g>ndertakings of that kind. But even among the beſt, where do we find a concurrence of thoſe Qualifications, that ought to be diſtinguiſh'd in a Poet?</p>
+            <p>I have often agreed with you, that to the making of a good Poet it is requiſite that He ſhould have a round ſtock of Learning, a Converſation with the Court, and the Art of Verſifying. Theſe things, beſides a <hi>Genius</hi> which is the Soul of all, are ſo con<g ref="char:EOLhyphen"/>nected with each other, that a Man can never be ſaid to be finiſh'd without them all. That Mr. <hi>Waller</hi> was perhaps the Man amongſt us that has moſt deſerv'd this Cha<g ref="char:EOLhyphen"/>racter, will, I believe, upon conſideration go very near to be granted.</p>
+            <p>He was indeed a great Genius, nor had He leſs Art and Happineſs in the ordering and expreſſing of his thoughts. A Man of a wonderful fancy, an inimitable ſoftneſs, a delicacy as well as a juſtneſs of ſenſe, a politeneſs of Language even in his firſt pieces, (which may give us Wonder, when we conſider there was not much above twenty years between <hi>Spencer</hi> and Him) and a moſt harmonious turn of words. All is eaſy, natu<g ref="char:EOLhyphen"/>ral, and flowing, and yet his induſtry is ſuch, that every thing be ſays is of full weight, and attended with all the Shining Graces of Poetry.</p>
+            <pb facs="tcp:49077:3"/>
+            <p>Many of the reſt appear full of Genius, and ſprightly Wit, but without ſeeming to inherit all that is neceſſary: And ſome, you are ſenſible, ſwoln with Envy and ill Na<g ref="char:EOLhyphen"/>ture (failings, which Men of true Wit and generous breeding would be aſhamed of) make a trade of carping at every trivial fault in other Men's Works, when their own are too abominable even to merit Cenſure.</p>
+            <p>I do confeſs a good Critick is of great uſe in the <hi>Common-Wealth</hi> of Learning: One who is juſt enough to ſeparate a Man's Perſon from his Works, and in the laſt to cenſure ſuch faults only, as are either unnatural, indecent, or wholly diſagreeing with their ſubject; not to be rigidly Cenſorious, but to obſerve and practiſe the good-natur'd rule of <hi>Horace.</hi>
+            </p>
+            <q>
+               <l>—Ubi plura nitent in carmine, non ego paucis</l>
+               <l>Offendar maculis, quas aut incuria fudit,</l>
+               <l>Aut humana parum cavit Natura.</l>
+            </q>
+            <p>How averſe our Criticks are to ſuch humanity of temper, I need not mention; ſince you, who are truly indu'd with ſo much of it, have often juſtly deſpis'd them for their barbarity in attacking the ſlender failings of Great Men, and not only in avoiding their Excellencies, but preſuming with a ſhameful vanity to make a fault ſometimes by their own falſe Judgment of what is exceeding proper in the Author they cenſure.</p>
+            <p>For my own part I know myſelf below their Envy, and therefore dare ſpeak. Beſides, what I have done in relation to <hi>Greenwich,</hi> was chiefly in obedience to ſome Friends, whoſe commands are of more weight with me than all the dangers of pride, and ill-nature from thoſe Wretches, who being unacquainted with good Manners and true Senſe, make Detraction and Envy the Employment of their Lives.</p>
+            <p>I may very well call it ill-Nature and Envy, and want of breeding in them, and not ſo good a ſenſe of Men and things as others have, that excites them to be ſo cenſo<g ref="char:EOLhyphen"/>rious, ſince in You we find not only an <g ref="char:V">Ʋ</g>niverſal Knowledge, accompanied with a per<g ref="char:EOLhyphen"/>fect Civility and good Nature; but ſuch an extraordinary Modeſty, that were it not for your goodneſs, I could ſcarce hope to be forgiven by you for publiſhing a Truth, which all that know you will do you the juſtice to declare, as well as</p>
+            <closer>
+               <signed>Your moſt Affectionate Brother, and very Faithful, Humble Servant, <hi>F. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:49077:3"/>
+            <head>Greenwich-Hill.</head>
+            <lg>
+               <l>SInce every Mountain, where the Muſes come,</l>
+               <l>Is call'd <hi>Parnaſſus,</hi> and induces ſome</l>
+               <l>Poetick Friend to celebrate its Name:</l>
+               <l>Here, <hi>Greenwich,</hi> I attempt to ſing Thy Fame.</l>
+               <l>Led by the Wonders, which my raviſh'd ſight</l>
+               <l>Views from Thy lovely Park's aſpiring height.</l>
+               <l>O! could I make my Numbers but attain</l>
+               <l>To <hi>Denham</hi>'s ſweetneſs, not His Hill ſhould gain</l>
+               <l>A riſe o'er Thee, nor yet proportion hold</l>
+               <l>With Thy juſt Fame, which I could then unfold</l>
+               <l>With greater force, tranſported with each grace</l>
+               <l>So charming, that ſurrounds the lofty Place.</l>
+               <l>Then ſhould'ſt Thou be to me, as that to Him</l>
+               <l>
+                  <hi>Parnaſſus</hi> was, and merit more eſteem.</l>
+               <l>For That, exalted by his Muſe alone,</l>
+               <l>Without his Song had ſtill remain'd unknown:</l>
+               <l>But Thou by Nature ſuch Renown doſt claim,</l>
+               <l>Thou want'ſt no Poet's Art to give Thee Fame.</l>
+               <l>And if Thy various Beautys I could trace,</l>
+               <l>As they deſerve, with more than common grace,</l>
+               <l>The Writer's credit, and the Poem's Fame</l>
+               <l>Would ſpring from Thee, whilſt Thou art ſtill the ſame.</l>
+               <l>Here then my riſing Eye, before my Feet</l>
+               <l>Aſcend the Mount, ſo fair a Pile doth meet,</l>
+               <l>As in a Poet's fancy well might prove</l>
+               <l>
+                  <hi>Apollo</hi>'s Palace, or the Seat of <hi>Jove.</hi>
+               </l>
+               <l>And the aſpiring Hill, on which 'tis lay'd,</l>
+               <l>Might be <hi>Parnaſſus,</hi> or <hi>Olympus</hi> made.</l>
+               <l>This view, which of a ſudden ſtrikes my ſight,</l>
+               <l>Fills me with ſo ſurpriſing a delight,</l>
+               <l>That I'm o'erjoy'd at what I can deſcry</l>
+               <l>From hence, nor wiſh more limits to my Eye.</l>
+               <l>And viewing well this Proſpect's Beauteous ſtore,</l>
+               <l>It gives me wonder to be promis'd more.</l>
+               <pb n="2" facs="tcp:49077:4"/>
+               <l>Thus in ſome Painter's outward room we find</l>
+               <l>Enough to pleaſe and to ſurpriſe the Mind:</l>
+               <l>And when the Artiſt labours to invite</l>
+               <l>Our Eyes to more variety of ſight,</l>
+               <l>We part not without pain from what before</l>
+               <l>We ſaw ſo pleaſing, that we wiſh'd no more.</l>
+            </lg>
+            <lg>
+               <l>No ſteep Aſcent diſcourages our Feet,</l>
+               <l>But all ſo fair, and regular we meet,</l>
+               <l>That fill'd with joy by gentle ſteps we riſe</l>
+               <l>To that fair Houſe, which firſt confin'd our Eyes.</l>
+               <l>But there arriv'd, and turning to look down,</l>
+               <l>We wonder that we reach'd the Height ſo ſoon.</l>
+            </lg>
+            <lg>
+               <l>This Houſe, Erected at a<note n="*" place="margin">
+                     <hi>Charles</hi> II.</note> Kingls Command,</l>
+               <l>Diſplays the goodneſs of a Royal hand;</l>
+               <l>Nor is't, tho' ſmall, unworthy of That Fame,</l>
+               <l>But High, and Graceful, as its Founder's Name.</l>
+            </lg>
+            <lg>
+               <l>Here, <hi>Flamſted,</hi> mounted to This lofty Seat,</l>
+               <l>Where all the Arts of thy profeſſion meet,</l>
+               <l>Thou ſhew'ſt Mankind how much improv'd by Thee</l>
+               <l>Are all the wonders of Aſtronomy.</l>
+               <l>Thou, reverend Man, from Thy auſpicious Hill</l>
+               <l>Can'ſt all the ſecrets of the Stars reveal.</l>
+               <l>Thy Aſtrolabes are made with ſo much Art,</l>
+               <l>They can the diſtance of the Sun impart.</l>
+               <l>Diſcloſe a Paralax i'th' Heavenly Sphere,</l>
+               <l>And ſhew the Place of every Wandring Star.</l>
+               <l>Now ſhall we fear no more miſtakes, we ſee</l>
+               <l>Celeſtial Motions all ſet right by Thee.</l>
+            </lg>
+            <lg>
+               <l>Nor need we mourn Great <hi>Archimedes</hi> Sphere,</l>
+               <l>Loſt tho' the finiſh'd Labour be, ſince here</l>
+               <l>In Thee reviv'd his Genius doth appear.</l>
+            </lg>
+            <lg>
+               <l>Nor doth Thy hand the hoarding Miſer play,</l>
+               <l>But all the Uſes of Thy Art convey</l>
+               <l>To ſerve Mankind. Now, <hi>Flamſted,</hi> give me leave</l>
+               <l>Here from thy Walls That proſpect to receive,</l>
+               <l>Which Nature's wide indulgence doth afford</l>
+               <l>To each ſurveying Eye.</l>
+            </lg>
+            <pb n="3" facs="tcp:49077:4"/>
+            <lg>
+               <l>Here mine deſcending from the Hill ſalutes</l>
+               <l>A pleaſant Vale, whoſe conſtant Beauty ſuits</l>
+               <l>The Queen's fair Houſe, that ſeems below to vye</l>
+               <l>With equal grace the Pile that ſtands ſo high.</l>
+               <l>More ſafe, for This like every lofty ſtate</l>
+               <l>Is liable to Envy or to Hate:</l>
+               <l>The blaſts of Fortune, or the rage of Winds,</l>
+               <l>Which ſpoil the proudeſt, and the beſt Deſigns.</l>
+               <l>Whilſt That, like one with milder place content,</l>
+               <l>Is leſs expos'd, more firm, and innocent.</l>
+               <l>Here ſhouldſt Thou dwell, my Muſe, at leaſt reveal</l>
+               <l>What Gratitude forbids Thee to conceal:</l>
+               <l>That entring here, amidſt the various Paint</l>
+               <l>
+                  <note n="*" place="margin">By <hi>Rubens.</hi>
+                  </note>Old as it is, diſdaining to be faint,</l>
+               <l>The Muſes we behold divinely fair,</l>
+               <l>With all the proper Emblems of their Care.</l>
+               <l>And here, O teach me to unfold that Birth,</l>
+               <l>Which dignifies ſo much this ſpot of Earth,</l>
+               <l>That of the Great <hi>Eliza,</hi> [ſo renown'd</l>
+               <l>In all the Arts of Empire, and ſo found</l>
+               <l>In Fame's Immortal Volume,] in whoſe time</l>
+               <l>True Engliſh worth moſt flouriſh'd in this Clime.</l>
+               <l>And as it roſe with her, ſo her decreaſe</l>
+               <l>Made that decline, and almoſt with Her ceaſe.</l>
+               <l>So doom'd a while, till Nature gain'd recruits,</l>
+               <l>Improv'd the Soil, and brought forth better fruits.</l>
+            </lg>
+            <lg>
+               <l>Here ſhould my Praiſe enlarge, but that my Eye,</l>
+               <l>Too quick for Thought, beholds a Valley nigh:</l>
+               <l>Whoſe flow'ry Paſture oft invites to graze</l>
+               <l>Whole droves of the Horn'd Herd, a fearful race,</l>
+               <l>The Hunter's paſtime, now retir'd for ſhade</l>
+               <l>Beneath a lofty Hill, by Nature made</l>
+               <l>A common and a ſafe retreat, to ſhun</l>
+               <l>A Northern tempeſt, or a ſcorching Sun.</l>
+               <l>Here they delight to wanton, play, and rove,</l>
+               <l>To make their Courſhip, and enjoy their Love.</l>
+               <l>Rambling they Love, nor are to one confin'd,</l>
+               <l>But free as Air, and uncontroul'd as Wind.</l>
+               <pb n="4" facs="tcp:49077:5"/>
+               <l>No Law they know, but guided by their Eyes</l>
+               <l>Take their own choice to Love or to deſpiſe.</l>
+               <l>How then is Man deceiv'd! how weak, how vain</l>
+               <l>Is He, who thinks by Reaſon to obtain</l>
+               <l>Advantage over Brutes, who know no cares</l>
+               <l>Of racking Love, no hopes, or wild deſpairs:</l>
+               <l>But run with joy the deſtin'd courſe of Life,</l>
+               <l>Ty'd to no Rule, no Slavery, no Wife!</l>
+            </lg>
+            <lg>
+               <l>Whilſt we triumphing falſely o'er their ſtate,</l>
+               <l>Miſguided by our Reaſon, ſoon or late</l>
+               <l>Split on the fatal Rocks of Love and Hate.</l>
+            </lg>
+            <lg>
+               <l>Behind the Queen's another Royal Pile</l>
+               <l>Next courts my view, the Hope of <hi>Britains</hi>-Iſle.</l>
+               <l>
+                  <note n="*" place="margin">
+                     <hi>Charles</hi> II.</note>A King's Foundation, and deſign'd his Seat,</l>
+               <l>When State-affairs would ſuffer his retreat:</l>
+               <l>When care of Empire, and the toil of Power</l>
+               <l>Had well prepar'd Him to enjoy an Hour.</l>
+               <l>Cloſe to the Banks of Silver <hi>Thames</hi> it ſtands,</l>
+               <l>With Majeſt it riſes, and commands</l>
+               <l>A Noble Proſpect, for at once it views</l>
+               <l>An Engliſh Fleet, our Iſle's defence, and ſhews</l>
+               <l>A Mixture of all Nations and of Things,</l>
+               <l>Which the kind floud receiving, hither brings.</l>
+               <l>The view, I mean, it brings, for all the ſtore</l>
+               <l>Unlades it ſelf upon the Neighb'ring ſhore</l>
+               <l>Of the Fair City, whoſe extending ſide</l>
+               <l>Swells in my Eye with ſo Auguſt a Pride,</l>
+               <l>So near me too, that did not here my Muſe</l>
+               <l>Urge a ſuſpence, I could not well refuſe</l>
+               <l>More than a tranſient offering to its praiſe,</l>
+               <l>But that's reſerv'd a while my thoughts to raiſe</l>
+               <l>Upon another View.</l>
+               <l>Croſſing the Stream that flows between the Pile</l>
+               <l>And the next ſhore, we view a ſpacious Iſle,</l>
+               <l>Whoſe boſom teeming by an ambient floud</l>
+               <l>Produces Plenty of ſuch wholſom food,</l>
+               <l>That grazing here the worn, abandon'd Steed</l>
+               <l>Regains his Vigour, and renews his Speed.</l>
+            </lg>
+            <lg>
+               <l>Now gentle <hi>Thames,</hi> concern'd for our delight,</l>
+               <l>Preſents a hundred windings to our ſight.</l>
+               <pb n="5" facs="tcp:49077:5" rendition="simple:additions"/>
+               <l>Which as they turn, ſtill flow with ſuch a grace,</l>
+               <l>Giving ſo much advantage to each place</l>
+               <l>They run between, that no <hi>Maeander</hi> ſhews</l>
+               <l>Such turnings, or ſo fair a view beſtows.</l>
+               <l>See with what joyful haſte He takes his courſe,</l>
+               <l>Yet how ſerene, and how averſe to force.</l>
+               <l>No rapid Waves throughout his Chanel roll,</l>
+               <l>Yet ſwift as Fame, that flys without controul.</l>
+               <l>Tho' lib'ral, yet within his bounds he flows,</l>
+               <l>And tho' reſerv'd, He viſits, as He goes,</l>
+               <l>The Neighb'ring Meads, and cheriſhing the Earth,</l>
+               <l>Preſents the Mower with a plenteous birth.</l>
+               <l>O happy <hi>Thames,</hi> whoſe current could invite</l>
+               <l>Immortal <hi>Denham</hi>'s Muſe Thy praiſe to write!</l>
+               <l>Now ſhall Thy juſt preeminence o'er All</l>
+               <l>The Ocean's Sons, by no endeavours fall:</l>
+               <l>By no dark cloud of Malice be o'ercaſt,</l>
+               <l>As long as His eternal Work ſhall laſt.</l>
+            </lg>
+            <lg>
+               <l>Next <hi>Windſor,</hi> riſing with a ſtately Meen,</l>
+               <l>Shews his proud Head, aſpiring to be ſeen</l>
+               <l>So far remote from hence, tho' here it ſeems</l>
+               <l>A diſtant Mountain only, when the Beams</l>
+               <l>Of a clear Sun diffuſe not o'er the place</l>
+               <l>Their Brightneſs, to diſcloſe its frame and grace.</l>
+               <l>High, as the God's <hi>Olympus,</hi> ſeems the Hill</l>
+               <l>On which it ſtands, and Shining doth reveal</l>
+               <l>A Palace as Majeſtick, and as Fair,</l>
+               <l>As Poets fruitful heads have fancy'd there.</l>
+               <l>Thou, <hi>Windſor,</hi> too art happy in the praiſe</l>
+               <l>Which the ſame Heavenly Muſe to Thee did raiſe.</l>
+               <l>Who knows not now Thy Beauty, and Thy force,</l>
+               <l>Thy matchleſs <hi>Hero</hi>'s, and their Warlike courſe,</l>
+               <l>Thy <hi>Garter</hi>'s firſt Original, and Fame,</l>
+               <l>By King's eſteem'd an Honour to their Name?</l>
+               <l>Here when Deſert has challeng'd from the King</l>
+               <l>Thy Order, what profuſion doth it bring</l>
+               <l>Of Pomp and Beauty to Thy ſtately Quire,</l>
+               <l>How do we throng to gaze, and to admire!</l>
+               <l>And tho' devouring Time has left no Name</l>
+               <l>Of Thy firſt Founder in the Books of Fame:</l>
+               <pb n="6" facs="tcp:49077:6"/>
+               <l>Yet this we know, that to ſuſpend Thy Fate,</l>
+               <l>'Twas<note n="*" place="margin">II.</note> 
+                  <hi>Charles</hi> repair'd Thee, and enlarg'd Thy State.</l>
+            </lg>
+            <lg>
+               <l>Now, gentle Muſe, aſſiſt me to return</l>
+               <l>To the King's Houſe, that was ſo long forlorn,</l>
+               <l>A bandon'd, left unfiniſh'd, till a Queen,</l>
+               <l>[Equal in All to great <hi>Eliza</hi> ſeen,</l>
+               <l>Her Godlike Bounty, and capacious Soul,</l>
+               <l>The Arts of Empire, and ſucceſs of Rule:</l>
+               <l>Now Equal too in Death, alas! O Weight</l>
+               <l>Of moſt uncomfortable Woe!]</l>
+               <l>Partly in pity to its falling State,</l>
+               <l>But more by Love conducted, and by Fate,</l>
+               <l>Fond of Her People's Good, ſpread forth Her Mind,</l>
+               <l>Renew'd the Building, and its uſe deſign'd</l>
+               <l>For Poor, diſabled Seamen, whom the War</l>
+               <l>Invading ſhould deny from Wounds to ſpare.</l>
+               <l>See how the buſy Lab'rers urge the Pile,</l>
+               <l>That is to Succour, and oblige our Iſle.</l>
+               <l>Some haſten to extend its Walls, and ſome</l>
+               <l>Adorn the inward Roof, whilſt Theſe aſſume</l>
+               <l>The Carving part, and every Order ſhape,</l>
+               <l>And Thoſe ſurveying let no Art eſcape</l>
+               <l>That may advance the Beauty of the Frame</l>
+               <l>As ſhining, as its ſecond Founder's Name.</l>
+               <l>Juſt ſo the Bees, when Summer is begun</l>
+               <l>Spread o'er the Fields, and labour in the Sun.</l>
+               <l>Part cull the Blooming Flowers, and load their Thighs</l>
+               <l>With various Sweets; and part with humming Crys</l>
+               <l>Emit their Young, whilſt others to relieve</l>
+               <l>The moſt oppreſs'd, their burdens do receive,</l>
+               <l>And bear them Home, where other Bees ſalute</l>
+               <l>Their ſafe Arrival, and diſpoſe their Fruit</l>
+               <l>Within their Cells, or with unweari'd toil</l>
+               <l>Thicken the liquid Juice, and guard the ſpoil.</l>
+               <l>Whilſt Others rang'd in gallant order, drive</l>
+               <l>The Drones, a lazy Inſect, from their Hive.</l>
+               <l>All urge the Work, whilſt the <hi>Nectarean</hi> Food</l>
+               <l>Exerts a fragrant Odour from the Wood.</l>
+               <l>Now ſhall our <hi>England</hi> flouriſh, and extend</l>
+               <l>Its greatneſs to the World's extreameſt end:</l>
+               <pb n="7" facs="tcp:49077:6"/>
+               <l>For ſince ſo Noble a ſupport was made</l>
+               <l>By <hi>William</hi>'s bounty for the Soldier's trade</l>
+               <l>Before at <hi>Chelſey</hi> (whoſe ſweet fabrick might</l>
+               <l>Suffice alone for ample Theme to write)</l>
+               <l>By this enlargement of the Royal Mind,</l>
+               <l>The Nation's Soul ſhall be no more confin'd:</l>
+               <l>But whereſoe'er our Fleets or Armies go,</l>
+               <l>We'll ſpread our Glory, and inſult our Foe.</l>
+            </lg>
+            <lg>
+               <l>Here reſt, my Muſe, a while to eaſe my ſight,</l>
+               <l>Which grows unſteady with the diſtant ſlight</l>
+               <l>My Eyes have made, then gently hover round</l>
+               <l>What lies behind, and view the lofty ground.</l>
+               <l>Whilſt I refreſh my ſelf beneath the ſhade</l>
+               <l>Of an adjacent Grove, ſupinely layd,</l>
+               <l>To eaſe my Limbs oppreſs'd and faint with heat,</l>
+               <l>Greedy of reſt, impatient for retreat.</l>
+               <l>There will I lye, and wait Thy airy flight,</l>
+               <l>Riſe at Thy call, and ſpread again my ſight.</l>
+            </lg>
+            <lg>
+               <l>But 'tis in vain I beg a ſpace for eaſe,</l>
+               <l>Not ſo the Muſe, whom I invoke, decrees.</l>
+               <l>Grown paſſive I to her impreſſions bend,</l>
+               <l>Walk a few ſteps, and then my Eyes deſcend</l>
+               <l>Upon a <hi>Viſto,</hi> whoſe unlook'd for ſight</l>
+               <l>Strikes me with ſuch amazement of delight,</l>
+               <l>That I no longer my complaints purſue,</l>
+               <l>But find new Vigour from the healing View.</l>
+               <l>So for a while an abſent Friend we mourn,</l>
+               <l>And beg of Heav'n to haſten his return.</l>
+               <l>But ſhould ſome lovely Dame invade our Eyes,</l>
+               <l>Whoſe aſpect fills us with a ſweet ſurpriſe,</l>
+               <l>No more we feel the torments of our grief,</l>
+               <l>But from each charming view we gain relief.</l>
+            </lg>
+            <lg>
+               <l>Here my tranſported Eye thro' even rows</l>
+               <l>Of Trees, which Mountains ſhelter and incloſe,</l>
+               <l>Meets with ſo diſtant and ſo fair a ſight,</l>
+               <l>So much variety of true delight,</l>
+               <l>That I'm concern'd, left doubting which to chooſe,</l>
+               <l>My dazled Eyes amidſt the heap ſhould loſe</l>
+               <pb n="8" facs="tcp:49077:7"/>
+               <l>Part of the beauteous ſtore. Aſſiſt me then</l>
+               <l>Here, my companion Muſe, and teach my Pen</l>
+               <l>To ſet in order what my ſight commands,</l>
+               <l>And praiſe each worthy object, as it ſtands.</l>
+            </lg>
+            <lg>
+               <l>Firſt then my careful Eye reviewing down,</l>
+               <l>Salutes the Chapel of the Neighb'ring Town:</l>
+               <l>Here the bright Dames, that dwell about the place,</l>
+               <l>(And <hi>Greenwich</hi> boaſts of ſome, whoſe Heavenly grace</l>
+               <l>Commands remembrance) daily come to pay</l>
+               <l>Thanks for thoſe bleſſings, which their Charms diſplay.</l>
+               <l>Humble in all their Beauty may concern,</l>
+               <l>But proud to thoſe who for that Beauty burn.</l>
+               <l>Not imitating Heaven, that was ſo kind</l>
+               <l>To grace their Bodies, and inrich their Mind.</l>
+               <l>Elſe would <hi>Aurelia</hi> match the pureſt flame,</l>
+               <l>That ever touch'd a heart, or found a Name.</l>
+               <l>
+                  <hi>Aurelia,</hi> in whom ſparkles every Grace,</l>
+               <l>
+                  <hi>Juno</hi> in Meen, and <hi>Venus</hi> in her Face.</l>
+               <l>
+                  <hi>Aurelia,</hi> whom the Groves and Walks rehearſe,</l>
+               <l>The Ornament, and Grandeur of my Verſe.</l>
+               <l>But oh! the ſame both Groves and Walks repeat,</l>
+               <l>That <hi>Thyrſis</hi> lies ſtill dying at her Feet.</l>
+            </lg>
+            <lg>
+               <l>Next the fair River offers to my view</l>
+               <l>A riſing Grove of Ships, that gently flow</l>
+               <l>In with the Tide, whoſe ſhaded Waters ſeem</l>
+               <l>To be no part of the incircling Stream.</l>
+               <l>Which might be ta'en for Land, as here it ſhews,</l>
+               <l>But for the Motion which the Ships diſcloſe.</l>
+               <l>Tall Sons of Oak, that on the Waves aſpire</l>
+               <l>To lift themſelves above their lofty Sire</l>
+               <l>That grew at Land, and by the help of Sails</l>
+               <l>Waiting for Seaſons, and for proſp'rous Gales,</l>
+               <l>Spread the wide Ocean o'er, and for our uſe</l>
+               <l>Bring home the Riches that all Climes produce:</l>
+               <l>Whilſt the whole World with fear and wonder meets</l>
+               <l>Our Flags, and pays low homage to our Fleets.</l>
+               <l>Which ſtill with all their Pride my Eyes can trace</l>
+               <l>Winding the River to ſalute that Place,</l>
+               <pb n="9" facs="tcp:49077:7"/>
+               <l>Which claims their juſt Obedience, and gives</l>
+               <l>To them that ſuccour it from them receives.</l>
+               <l>Here <hi>London</hi> ſwelling doth it ſelf preſent</l>
+               <l>So ſtately, and with ſuch a huge extent,</l>
+               <l>That my fix'd Eye with admiration fill'd</l>
+               <l>Dwells on a view, that ſuch a ſcene doth yield</l>
+            </lg>
+            <lg>
+               <l>Of lofty Monuments, that riſe ſo high,</l>
+               <l>As if they would again the Heavens defy,</l>
+               <l>And make the Earth contiguous with the Sky.</l>
+            </lg>
+            <lg>
+               <l>Among the reſt, contending for the Height,</l>
+               <l>Two the moſt eminent engage my Sight.</l>
+               <l>Both with ſuch ſtate, and ſuch a tow'ring riſe,</l>
+               <l>As if they ſcorn'd the reach of humane Eyes:</l>
+               <l>But ſwell'd with emulation would aſpire</l>
+               <l>To be conſum'd in Elemental Fire.</l>
+               <l>As Rival Stateſmen, ſcorning to abide</l>
+               <l>An Equal, often ſink beneath their pride.</l>
+            </lg>
+            <lg>
+               <l>In a more humble, yet a ſweet Aſcent</l>
+               <l>The City's Fortreſs doth it ſelf preſent</l>
+               <l>Full in my Eye, and with an eaſier Face</l>
+               <l>(In all its compaſs ſtrength unites with Grace.)</l>
+               <l>Diverts the horror of the former ſight,</l>
+               <l>Rais'd by the Rival Spire's amazing height.</l>
+               <l>From hence our numerous Armies are ſupply'd</l>
+               <l>With all their Stores, here <hi>William</hi> can provide</l>
+               <l>For greater Forces, nor would yet the Place</l>
+               <l>Appear exhauſted, but diſcloſe a face</l>
+               <l>Of vaſt ſurrounding War, to ſhew our ſtore</l>
+               <l>By Him made endleſs, as our Iſle ſecure.</l>
+               <l>Here are the Regal Enſigns kept with care</l>
+               <l>In ſolemn ſtate, amidſt the Pomp of War.</l>
+               <l>An Emblem of our Monarch's lofty Name,</l>
+               <l>Who has ſo much ſurpaſs'd all Kings in Fame,</l>
+               <l>In Fields of Battel, and at home in peace,</l>
+               <l>Born to Triumph, and make Diſorder ceaſe.</l>
+            </lg>
+            <lg>
+               <l>Nor doth this famous Tower alone diſcloſe</l>
+               <l>Peculiar Wonders of our own, but ſhews</l>
+               <pb n="10" facs="tcp:49077:8"/>
+               <l>Variety of Creatures hither brought</l>
+               <l>By curious Men from Countries far remote,</l>
+               <l>As Preſents fit for Kings, who here maintain</l>
+               <l>The Captive Beaſts, ſuch as the <hi>Lybian</hi> Plain</l>
+               <l>And Deſarts of wild <hi>Africk</hi> once obey'd</l>
+               <l>As Lords of all their Waſt, and barb'rous Shade.</l>
+               <l>Till Men by Stratagem their Power controul'd,</l>
+               <l>And dar'd to ſeize them in their ſtrongeſt hold.</l>
+            </lg>
+            <lg>
+               <l>Now my unſteady Eye removing flys</l>
+               <l>O'er all the lofty buildings, and eſpies</l>
+               <l>Beyond their wide extent a ſpacious Hill,</l>
+               <l>Whoſe gentle riſe, and fruitful ſides reveal</l>
+               <l>A beauteous Proſpect, and whoſe tow'ring height</l>
+               <l>Looks o'er the ſtately Town, and bounds my ſight.</l>
+               <l>Its lofty top ſeems level with the Sky,</l>
+               <l>Affording Wonder, as it gives me joy.</l>
+               <l>Whilſt o'er its wide, extended face is ſeen</l>
+               <l>Perpetual bloom, and ever ſpringing Green.</l>
+               <l>
+                  <note n="*" place="margin">In alluſion to Sir <hi>John Denbam.</hi>
+                  </note>O could I riſe like Thee, and make Thy height</l>
+               <l>The graceful meaſure of my Muſe's flight!</l>
+               <l>Bounded tho' wide, tho' mild, yet full of ſtate,</l>
+               <l>High without Force, without aſpiring Great.</l>
+            </lg>
+            <lg>
+               <l>Here, <hi>Hamſted,</hi> I ſhould dwell upon thy praiſe,</l>
+               <l>Search all Thy Beauties, and delight to gaze</l>
+               <l>Upon Thy face, could but my lab'ring Eyes</l>
+               <l>Preſerve their Vigour, and avoid Surpriſe.</l>
+               <l>But ſuch Thy diſtance is, and ſuch Thy grace,</l>
+               <l>That dazled with Thy luſtre, and the ſpace</l>
+               <l>That lies between, my ſtrain'd, o'er burden'd ſight</l>
+               <l>Is forc'd to loſe Thy Beauty, and Thy height.</l>
+            </lg>
+            <lg>
+               <l>But ſo ſurrounded is the lovely Hill,</l>
+               <l>Whereon I ſtand, with Perſpectives that fill</l>
+               <l>My Eyes with Admiration and Delight,</l>
+               <l>That whereſoe'er I turn, I pleaſe my ſight</l>
+               <l>With ſome new Proſpect, ſuch variety,</l>
+               <l>Such mixture of extreams in all I ſee,</l>
+               <l>Of Joy and Wonder, that my raviſh'd Eyes</l>
+               <l>Deſcry throughout a perfect Paradiſe.</l>
+            </lg>
+            <pb n="11" facs="tcp:49077:8"/>
+            <lg>
+               <l>But that which moſt delights me, is that Pair</l>
+               <l>Of Groves, where all that's pleaſant, ſweet, or fair</l>
+               <l>In Art or Nature doth oblige my ſight,</l>
+               <l>And where a Maze of Walks might well invite</l>
+               <l>The God of Love to keep his amorous Court,</l>
+               <l>His wanton Revells, and his Midnight ſport.</l>
+               <l>The Muſes too with all their train might here</l>
+               <l>Indulge their thoughts apart, nor interfere</l>
+               <l>With other paſtime, but apply their trade,</l>
+               <l>Tune all their Harps, and court <hi>Apollo</hi>'s Aid.</l>
+               <l>Then in a Critical, well-choſen hour,</l>
+               <l>The God inſpiring, uſe his offer'd Power.</l>
+               <l>O happy Groves, that thus may conſcious prove</l>
+               <l>Of heavenly Numbers, and Celeſtial Love!</l>
+               <l>Here, various Dames we ſee, divinely Bright,</l>
+               <l>Walk in theſe Shades, when Time and Air invite.</l>
+               <l>Doom'd to diſquiet we their ſteps purſue,</l>
+               <l>And unprepar'd feel wounds at every view.</l>
+               <l>But oh! <hi>Aurelia</hi> ſhoots the keeneſt dart,</l>
+               <l>Which not my ſenſe alone, but pierces thro' my Heart.</l>
+            </lg>
+            <lg>
+               <l>As in the Groves of lofty <hi>Cynthus,</hi> when</l>
+               <l>
+                  <hi>Diana</hi> walks with all her ſhining train</l>
+               <l>To ſeek ſome cool retreat, each lovely Maid</l>
+               <l>Reflects a thouſand graces thro' the Shade.</l>
+               <l>The Goddeſs by her Stature, Shape, and Air,</l>
+               <l>Majeſtically tall, proportion'd, fair,</l>
+               <l>Surpaſſes all the reſt: ſuch here we ſee</l>
+               <l>
+                  <hi>Aurelia,</hi> when She leads her Company</l>
+               <l>Within the Groves on this delightfull Hill;</l>
+               <l>So doth She Shine, ſuch Excellence reveal.</l>
+            </lg>
+            <lg>
+               <l>O lovely <hi>Greenwich,</hi> how doſt thou ſurpriſe</l>
+               <l>Our Souls with Wonder, and with Joy our Eyes!</l>
+               <l>Thy num'rous different Beauties to reherſe</l>
+               <l>Requires the ſtrength of more exalted Verſe.</l>
+               <l>Fain would I trace them, but my ſtock of Art</l>
+               <l>Is unproportion'd to the willing part.</l>
+               <l>Yet ſure 'twere ſtupid to forget to Name</l>
+               <l>The RANGER of Thy Park, ſo high in Fame.</l>
+               <pb n="12" facs="tcp:49077:9"/>
+               <l>
+                  <hi>DORSET</hi> the Patron, and the Rule of Wit,</l>
+               <l>The Nation's Honour, and the Court's Delight.</l>
+               <l>The Soul of Goodneſs, and the Spring of Senſe,</l>
+               <l>The Poets Theme, Reward, and Great Defence.</l>
+               <l>Here when the reſtleſs toil of being Great,</l>
+               <l>Makes Him retire from all the Pomp of ſtate,</l>
+               <l>Free with a choſen Friend, He takes his eaſe,</l>
+               <l>Unbends his Mind, and taſts the Joys of Peace:</l>
+               <l>Reads o'er the Poets with impartial Eyes,</l>
+               <l>And then determines who ſhall fall or riſe.</l>
+               <l>So in old <hi>Rome,</hi> when weary of Affairs</l>
+               <l>Of State, <hi>Maecenas</hi> would releaſe his cares:</l>
+               <l>Fond of retreat, with <hi>Horace</hi> only bleſt,</l>
+               <l>He left his Grandeur, and his Joy confeſt.</l>
+               <l>Judg'd with like freedom what the <hi>Romans</hi> writ,</l>
+               <l>Which was baſe Metal, and which Standard Wit.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>BOOKS lately Printed.</head>
+            <p>AN Eſſay on Poetry, written by the Marqueſs of <hi>Normanby;</hi> and the ſame in Latin by another hand, with ſeveral other Poems; <hi>viz.</hi> An Epiſtle to the Lord Chamberlain on his Majeſty's Victory in <hi>Ireland.</hi> By the Honourable Mr. <hi>Montague.</hi> An Epiſtle to the Honourable Mr. <hi>Montague,</hi> on his Majeſty's Voyage to <hi>Holland.</hi> By Mr. <hi>Stepney.</hi> An Epiſtle to <hi>Monſieur Boileau.</hi> By Mr. <hi>Arwaker.</hi> A Poem on the Promotion of ſeveral Eminent Perſons in Church and State. By Mr. <hi>Tate.</hi> To which are added the following Poems, never before in Print, <hi>viz.</hi> An Ode in Memory of the late Queen. By a Perſon of Quality. A Poem on the Late Horrid Conſpiracy. By Mr. <hi>Stepney.</hi> Price 2 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>The Temple of Death. A Poem Written by the Marqueſs of <hi>Normanby. Horace</hi> of the Art of Poetry<g ref="char:punc">▪</g> Made Engliſh by the Earl of <hi>Roſcommon.</hi> The Duell of the Staggs. By the Honourable Sir <hi>Robert Howard.</hi> Together with ſeveral other Excellent Poems. By the Earls of <hi>Rocheſter,</hi> and <hi>Orrery,</hi> Sir <hi>Charles Sedley,</hi> Sir <hi>George Etheridge,</hi> the Honourable Mr. <hi>Montague,</hi> Mr. <hi>Granvill,</hi> Mr. <hi>Dryden,</hi> Mr. <hi>Chetwood,</hi> and Mr. <hi>Tate.</hi> To which are added ſeveral Poems of the Honourable Madam <hi>Wharton.</hi> Second Edition. Price 2 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>Five Romances in one Vol or ſingle, <hi>viz. Zayde,</hi> a Spaniſh Hiſtory, <hi>Zingis,</hi> a Tartarian Hiſtory. The Amours of <hi>Charles</hi> Duke of <hi>Mantua,</hi> and the Counteſs of <hi>Rovera.</hi> The Husband forc'd to be jealous, or the good Fortune of thoſe Women that have jealous Husbands, The <hi>Cimmerian</hi> Matron, 8<hi>vo.</hi> Price 4 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>A Lady's Religion in a Letter to the Honourable the Lady <hi>Howard.</hi> By a Divine of the Church of <hi>England.</hi>
+            </p>
+            <pb facs="tcp:49077:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
